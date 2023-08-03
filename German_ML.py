@@ -7,5 +7,3 @@ z = creds.path
 
 with open(z + '\CreditRisk\data\german_data_numeric.csv', 'r+') as file:
     x = file.read()
-print(x)
-
