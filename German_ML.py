@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import creds
+import data.creds as creds
 
 z = creds.path
 
